@@ -1,1 +1,1 @@
-print("Callin is a majestic being")
+print("Callin is a...dumbo")
