@@ -1,1 +1,1 @@
-print("Callin is amazing")
+print("Callin is a dork")
